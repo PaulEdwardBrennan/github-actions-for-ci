@@ -1,8 +1,8 @@
 ---
-name: 🐞 Bug
-about: File a bug/issue
+name: User Doc Report
+about: File a user documentation issue
 title: '[BUG] <title>'
-labels: Bug, Needs Triage
+labels: Documentation, Needs Triage
 assignees: ''
 
 ---
