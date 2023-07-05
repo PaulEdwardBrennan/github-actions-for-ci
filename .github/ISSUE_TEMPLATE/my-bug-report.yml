@@ -1,14 +1,14 @@
-name: My Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+name: User Doc Issue Report
+description: File an issue with the user documentatino
+title: "User Doc Issue"
+labels: ["documentation"]
 assignees:
   - octocat
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thank you for taking the time to fill out this user documentation issue report!
   - type: input
     id: contact
     attributes:
