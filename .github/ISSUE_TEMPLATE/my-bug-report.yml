@@ -23,7 +23,7 @@ body:
       label: Description
       description: Please describe the issue with the user document.
       placeholder: Tell us what you see!
-      value: ""
+      value: "x"
     validations:
       required: true
   - type: dropdown
