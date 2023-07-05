@@ -1,14 +1,8 @@
----
-name: User Doc report
-about: Create a report to help us improve our user documentation
-title: ''
-labels: ''
-assignees: ''
 
----
+### Document
+Please specify the name of the user document.
 
-**User Name:**
-**Document:**
-**Description of the Problem:**
+### Description of the Problem
+Please give as much detail as possible
 
 
