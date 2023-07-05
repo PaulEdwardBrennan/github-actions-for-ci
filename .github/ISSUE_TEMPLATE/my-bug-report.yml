@@ -13,7 +13,7 @@ body:
     id: contact
     attributes:
       label: User Document Title
-      description: Please specify the user document title?
+      description: Please specify the user document title
       placeholder: User Document Title
     validations:
       required: true
@@ -22,8 +22,8 @@ body:
     attributes:
       label: Description
       description: Please describe the issue with the user document.
-      placeholder: Tell us what you see!
-      value: "x"
+      placeholder: Describe the issue!
+      value: " "
     validations:
       required: true
   - type: dropdown
