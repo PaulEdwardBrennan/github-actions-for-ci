@@ -1,9 +1,9 @@
 name: User Doc Issue Report
-description: File an issue with the user documentatino
+description: File an issue with the user documentation
 title: "User Doc Issue"
 labels: ["documentation"]
 assignees:
-  - octocat
+  - pbrennan
 body:
   - type: markdown
     attributes:
@@ -12,11 +12,11 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      label: Doc Name
+      description: Please specify the user document title?
+      placeholder: User Document Title
     validations:
-      required: false
+      required: true
   - type: textarea
     id: what-happened
     attributes:
